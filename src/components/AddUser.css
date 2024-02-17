@@ -1,0 +1,14 @@
+.width1 {
+  background: #ffffff; /* Background color for the form */
+  border-radius: 10px;
+  padding: 20px;
+  width: 400px; /* Adjust the width as needed */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+  .form-container {
+    background: linear-gradient(to bottom, #e6f7ff, #99c2ff); /* Adjust the color codes as needed */
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
